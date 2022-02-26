@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "",
+    "accountName": "wrgdevdataverse001",
+    "accountKey": "R96xTVdM5qenbT6vTwWvRWF9jnWX4fOtuBG0zX/8DeVpXg7vFq7sxGfxQVb0G7V/ZD3eJ5FBk/uJicqQfl1bcw==",
+    "key": "WzJCWTyknZLLZm/JJyFD+Ohfd2cVRfOl7qkWT6bKvgI=
+  }
+}
